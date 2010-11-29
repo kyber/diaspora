@@ -1,10 +1,11 @@
 #   Copyright (c) 2010, Diaspora Inc.  This file is
 #   licensed under the Affero General Public License version 3 or later.  See
 #   the COPYRIGHT file.
+# updated: Jarkko (jm60697@gmail.com)
 
 
 fi: 
-  _comments: "Comments"
+  _comments: "Kommentit"
   _home: "Home"
   _photos: "kuvat"
   _services: "Palvelut"
@@ -21,19 +22,19 @@ fi:
             email: 
               taken: "on jo käytössä"
             person: 
-              invalid: "is invalid"
+              invalid: "ei ole kelvollinen"
             username: 
               taken: "on jo käytössä"
   ago: "sitten"
   application: 
     helper: 
-      unknown_person: "tuntematon persoona"
+      unknown_person: "tekijä tuntematon"
       youtube_title: 
-        unknown: "Unknown Video Title"
+        unknown: "Videon otsikko tuntematon"
   are_you_sure: "Oletko varma?"
   aspects: 
     add_to_aspect: 
-      failure: "Failed to add friend to aspect."
+      failure: "Ystävän lisääminen verkostoon epäonnistui."
       success: "Successfully added friend to aspect."
     create: 
       failure: "Aspect creation failed."
